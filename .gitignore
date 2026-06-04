@@ -1,0 +1,5 @@
+logging.txt
+build*
+build64/*
+build64_msvc/*
+python/__pycache__/*
